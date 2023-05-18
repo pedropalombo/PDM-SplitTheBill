@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SplitTheBill</string>
+
+    <string name="participant_list">Lista de Participantes</string>
+
+    <string name="add_participant">Adicionar Participante</string>
+
+    <string name="name">Nome</string>
+    <string name="price_item">Valor Pago</string>
+    <string name="item_purchased">Item Comprado</string>
+
+    <string name="balance">Saldo</string>
+
+    <string name="save">Salvar</string>
+
+    <string name="remove_participant">Remover Participante</string>
+    <string name="edite_participant">Editar Participante</string>
+
+
+    <string name="total_text">Total: R$%s</string>
+    <string name="per_person_text">P/ Pessoa: R$%s</string>
+    <string name="calculate_share">Calcular Divisão</string>
+    <string name="expense">Gasto</string>
+</resources>

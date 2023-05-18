@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- | creating context menu (onHold) | -->
+    <item
+        android:id="@+id/removeParticipantMi"
+        android:title="@string/remove_participant" />
+
+    <item
+        android:id="@+id/editParticipantMi"
+        android:title="@string/edite_participant" />
+</menu>

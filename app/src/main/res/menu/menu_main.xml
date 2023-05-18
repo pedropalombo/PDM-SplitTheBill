@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- making menus + sub-menus -->
+
+    <item
+        android:id="@+id/addMi"
+
+        android:icon="@drawable/ic_add_participant"
+
+        android:title="@string/add_participant"
+
+        app:showAsAction="ifRoom"
+
+        />
+
+    <item
+        android:id="@+id/calculatorMi"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/calculate_share"
+
+        app:showAsAction="ifRoom"/>
+</menu>
